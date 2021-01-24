@@ -12,10 +12,13 @@ h2 {
     font-weight: 300;
     font-size: 42px;
 }
-article p {
+p {
     font-size: 21px;
     color: grey;
 }
 a {
     color: aquamarine;
+}
+.copyright {
+    text-align: right;
 }
